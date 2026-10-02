@@ -1,0 +1,11 @@
+name,department,salary,age,active
+Ada,Engineering,95000,29,True
+Daniel,Sales,60000,34,True
+Bob,Sales,52000,41,False
+Grace,Engineering,98000,27,True
+Mizzy,Marketing,,31,True
+Kelu,Engineering,87000,,True
+Tunde,Marketing,45000,26,False
+Chidi,Sales,58000,38,True
+Ifeoma,Engineering,,33,True
+Segun,Marketing,49000,29,True
